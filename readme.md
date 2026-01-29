@@ -3,7 +3,11 @@
 
 ![Screenshot](assets/2.png)
 
-# 📄 Personal Resume Website
+**Live Preview:**
+
+https://harsh-raj4618.github.io/resume-assign-repo/
+
+# 📄 Personal Resume Website 
 
 This project is a **simple personal resume website** built using **pure HTML5** . It showcases professional information such as **skills, experience, projects, education, and contact details** in a clean and readable layout.
 
