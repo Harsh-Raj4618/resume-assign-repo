@@ -2,7 +2,7 @@
 ![Screenshot](assets/1.png)
 
 ![Screenshot](assets/2.png)
-
+  
 **Live Preview:**  
 
 https://harsh-raj4618.github.io/resume-assign-repo/
